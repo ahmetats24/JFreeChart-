@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+work/
+.venv/
+
+# Node
+node_modules/
+package-lock.json
+
+# OS
+.DS_Store
+
+# Geçici derleme çıktıları (rapor/sunum PDF önizlemeleri)
+*.pdf
+sunum/slide-*.jpg

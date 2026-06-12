@@ -1,0 +1,14 @@
+[
+  {"label": "1.0.6",  "ref": "6f8f85d378dbb27da3855892a1cee294e7154a3d", "date": "2007-06", "note": "snapshot: 1.0.x branch start (release 15 Jun 2007)"},
+  {"label": "1.0.9",  "ref": "9c866527b8be4683ca89980ded6ec5b2331ac263", "date": "2008-01", "note": "snapshot at release date 4 Jan 2008"},
+  {"label": "1.0.11", "ref": "867e4859f67a6969c675b83b9a2dc09fc99979c1", "date": "2008-09", "note": "snapshot at release date 19 Sep 2008"},
+  {"label": "1.0.13", "ref": "3b88bce4097529cad63e0be0583cab3a8a51b3d6", "date": "2009-04", "note": "snapshot at release date 20 Apr 2009"},
+  {"label": "1.0.14", "ref": "df5e46f3399aa995363cecbd9753a5e743e83c65", "date": "2011-11", "note": "snapshot at release date 20 Nov 2011"},
+  {"label": "1.0.16", "ref": "67a0b2435879e9b38d6f0fb4bee4156896961eba", "date": "2013-09", "note": "snapshot at release date 13 Sep 2013"},
+  {"label": "1.0.19", "ref": "v1.0.19", "date": "2014-07", "note": "official tag"},
+  {"label": "1.5.0",  "ref": "v1.5.0",  "date": "2017-11", "note": "official tag"},
+  {"label": "1.5.2",  "ref": "v1.5.2",  "date": "2020-12", "note": "official tag"},
+  {"label": "1.5.4",  "ref": "v1.5.4",  "date": "2023-01", "note": "official tag"},
+  {"label": "1.5.5",  "ref": "v1.5.5",  "date": "2024-06", "note": "official tag"},
+  {"label": "1.5.6",  "ref": "v1.5.6",  "date": "2025-05", "note": "official tag"}
+]
